@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+# Nicholas P. Herrington
 
-You can use the [editor on GitHub](https://github.com/npherrington/npherrington.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a PhD student at the University of Exeter in the U.K.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research interests
+### Simulations of star formation 
+### The origins of the first quasars
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
