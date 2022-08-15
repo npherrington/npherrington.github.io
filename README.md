@@ -6,7 +6,7 @@ I am currently a PhD student at the University of Exeter in the U.K.
 ### Simulations of star formation 
 ![Image](f1.pdf)
 ### The origins of the first quasars
-
+![Image](HR_all_models_new.pdf)
 
 ```markdown
 Syntax highlighted code block
