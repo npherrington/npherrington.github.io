@@ -4,6 +4,7 @@ I am currently a PhD student at the University of Exeter in the U.K.
 
 ## Research interests
 ### Simulations of star formation 
+![Image](f1.pdf)
 ### The origins of the first quasars
 
 
