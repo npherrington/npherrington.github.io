@@ -1,5 +1,5 @@
 # Nicholas P. Herrington
-![Image](p1.JPEG)
+![Image](p1.JPG)
 I am currently a PhD student at the University of Exeter in the U.K.
 
 ## Research interests
