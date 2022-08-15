@@ -5,7 +5,7 @@ I am currently a PhD student at the University of Exeter in the U.K.
 ## Research interests
 ### Simulations of star formation
 ![Image](f1.pdf)
-#### Hydrodynamic simulationf with an initial stellar population of stars 
+#### Hydrodynamic simulations with an initial population of stars 
 Simulations of star formation on molecular cloud scales typically start with a turbu-
 lent region of gas, or for example the collision of two clouds. In reality, a typical region
 within a galaxy may already include, or reside near some population of stars contain-
