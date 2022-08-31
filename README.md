@@ -8,7 +8,7 @@ As well as this I am interested in the origin of the first quasars, particularly
 ### Simulations of star formation
 We setup a suite of simulations, extracting the initial conditions from a galaxy evolution model. Our box regions contain a section of spiral arm and cluster sink particles which represent sites of star formation within the region.
 ![Image](f1.pdf)
-![Video](test.mp4)
+![Video](mhd2_modB.mp4)
 We evolve these with a smooth particle hydrodynamics code (sphNG), making use of feedback perscriptions, such as supernovae and photo-ionising feedback. As well as this we pre-populate our simulation with massive stars of different masses and ages according to the star formation history of the progenitor galaxy evolution model.
 #### Hydrodynamic simulations with an initial population of stars 
 Simulations of star formation on molecular cloud scales typically start with a turbu-
