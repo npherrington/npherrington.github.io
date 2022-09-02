@@ -29,9 +29,9 @@ our simulations.
 ![Video](modB_all_models_nofb.mp4)
 Simulations of star formation on molecular cloud scales typically start with a turbulent region of gas, or for example the collision of two clouds. Realistically, a typical region within a galaxy may already include, or reside near some population of stars containing massive stars undergoing feedback. In this work we investigate the interactions of Giant Molecular Clouds (GMCs) on kpc scales, focussing on how feedback from massive stars impact star formation throughout the region. Our sub galactic region includes ideal magnetohydrodynamics (MHD), photo-ionising and supernova feedback. So far we find that ionising and supernova feedback trigger star formation, through the expansion of hot ionised bubbles, whilst MHD suppresses star formation, smoothing out small over densities within inter-arm regions and prolonging GMC collapse across the spiral arm. Cosmic rays are expected to play an important role in the star formation process and will be sourced when supernovae occur. We aim to include a feedback prescription for modelling the impact and propagation of cosmic rays throughout the sub galactic region.
 ### The origins of the first quasars
-## How the first quasars formed from turbulent origins 
+#### How the first quasars formed from turbulent origins 
 
-## The evolution of rapidly accreting supermassive primordial stars with MESA
+#### The evolution of rapidly accreting supermassive primordial stars with MESA
 ![Image](HR_all_models_new.pdf)
 
 ```markdown
