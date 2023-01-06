@@ -43,6 +43,17 @@ During the main sequences these stars were burning hydrogen and helium and as th
 The two resulting black holes would be sufficient enough mass to evolve up to supermassive black hole masses by redshift 6.
 #### Supermassive stars formed from the collapse of intermediate LW background primordial haloes
 
+
+### Publications
+Modeling Supermassive Primordial Stars with MESA (submitted)
+[Link](https://arxiv.org/abs/2208.00008)
+
+The role of previous generations of stars in triggering star formation and driving gas dynamics (submitted)
+
+Turbulent cold flows gave birth to the first quasars
+[Link](https://www.nature.com/articles/s41586-022-04813-y)
+
+
 ```markdown
 Syntax highlighted code block
 
